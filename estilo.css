@@ -1,0 +1,21 @@
+
+.fotoarmando {color:rgb(0, 0, 0); font-size: 30px; background-color: rgba(255, 255, 255, 0); text-align: center;}
+.letraMusica {color:black; font-size: 30px; background-color: rgba(255, 255, 255, 0) ;}
+.tituloprincipal{color: rgb(0, 0, 0); font-size: 52px; text-align: center; }
+.listaMusica {color: rgb(0, 0, 0); font-size: 20px; background-color: rgba(255, 255, 255, 0)}
+.minhalista { margin:auto; font-size: 20px; font-weight: 1000; background-color: rgba(255, 255, 255, 0);text-align: center; width: 15%;}
+.formulario {background-color:rgba(255, 255, 255, 0); font-size: 20px; text-align: center; font-weight: 1000;}
+.cabeca{margin: auto; text-align: center;  }
+body{
+    background-image:url(mar.jpg) ; 
+    background-size: cover ;
+}
+
+
+.caixa{
+    align-self: center;
+    margin: auto;
+    width: fit-content;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    }
